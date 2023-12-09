@@ -1,7 +1,14 @@
 # Hi! I'm Subeen Jeon
 
-Nothing beats consistency.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+   <a href="https://velog.io/@nasubeeni"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
+</div>
+
+</br>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
