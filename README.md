@@ -6,7 +6,10 @@
 <div id="badges">
    <a href="https://velog.io/@nasubeeni"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
-</br>
+
+
+
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
