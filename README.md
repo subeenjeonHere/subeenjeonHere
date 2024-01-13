@@ -11,7 +11,7 @@
 
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+# 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="center">
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="vscode" width="45" height="45"/>
