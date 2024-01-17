@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&text=Hi👋🏻%20I'm%20Subeen%20Jeon&fontAlignY=50&section=header%20render&fontSize=40&fontAlign=50&animation=twinkling)
 
 
-# Hi! I'm Subeen Jeon
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
