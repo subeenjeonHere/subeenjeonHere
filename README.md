@@ -9,12 +9,13 @@
 <br><br>
 
 <div id="badges" align="center">
+  <h2 align="center"> 📒 &nbsp;Tech Blog </h2>
    <a href="https://velog.io/@nasubeeni"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 </div>
 
 <br><br>
 
-<h1 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned </h1>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned </h2>
 <p align="center">
     <div style="display:flex; flex-direction:column; align-items:center;">
         <!-- Backend -->
