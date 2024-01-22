@@ -52,15 +52,3 @@
         </div>
     </div>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subeenjeon&show_icons=true" alt="Anurag's GitHub stats">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subeenjeon" alt="Top Langs">
-</p>
