@@ -6,10 +6,6 @@
 
 <br><br>
 
-<div id="badges" align="center">
-  <h2 align="center"> 📒 &nbsp;Tech Blog </h2>
-
-</div>
 
 <br><br>
 
