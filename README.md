@@ -9,9 +9,9 @@
 
 <br><br>
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned </h2>
+<h2 align="center"> &nbsp;Some Tools I Have Used and Learned </h2>
 <p align="center">
-    <div style="display:flex; flex-direction:column; align-items:center;">
+  <div style="display:flex; flex-direction:column; align-items:center;">
         <!-- Backend -->
         <p><strong>Backend</strong></p>
         <div style="display:flex;">
@@ -37,3 +37,7 @@
         </div>
     </div>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subeenjeonHere&layout=compact)
+
+
