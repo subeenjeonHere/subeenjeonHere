@@ -12,7 +12,7 @@
 
 #### Areas I want to study more
 
-- ![](https://img.shields.io/badge/C-00599C?style=flat&logo=&logoColor=white")  ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=&logoColor=white")
+- ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=&logoColor=white")  ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=&logoColor=white")
 - Algorithms & Datastructure
 - Performance tuning and optimization techniques in Java applications
 
